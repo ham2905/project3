@@ -53,7 +53,7 @@ header{
 
 .infoimg1{
   margin-top: 50px;
-  margin-left: 50px;
+  margin-left: 35px;
 }
 
 #details001
@@ -75,6 +75,7 @@ header{
   width: 250px;
   background: none;
   font-size: 30px;
+  border: 2px solid black;
   }
   #button
   {
@@ -109,6 +110,7 @@ footer{
 {
   background-color:
   margin0;
+  position: fixed;
 }
 #contact
 {
@@ -122,5 +124,26 @@ footer{
   margin-top: 25px;
   color: white;
   text-align: center;
+
+}
+ .img123
+ {
+   margin-left:15%;
+   margin-bottom: 20px;
+   margin-top: 40px;
+ }
+
+#con1
+{
+  margin-bottom: 0;
+}
+.colmat{
+  background-color: #ddd;
+  margin: 0;
+}
+.nothin
+{
+  margin-top: 150px ;
+  margin-bottom: 30px;
 
 }
